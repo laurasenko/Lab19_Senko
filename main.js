@@ -7,7 +7,7 @@ http.createServer(function(request, response) {
  response.write(
  	'<h1 style="color:purple";>' + 'Random Pun Generator' + '</h1>' + '<p></p>' + 
  	'<h2 style="color:darkgreen;">' + randomPun() + '</h2>' + '<p></p>'
- 	+ '<h3 style="color:blue;">' + 'Update the page for more <em>refreshing</em> puns.');
+ 	+ '<h3 style="color:blue;">' + 'Update the page for more <em>refreshing</em> puns.'+'</h3>');
  response.end();
 }).listen(8888);
 
