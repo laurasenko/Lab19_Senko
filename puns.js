@@ -11,7 +11,7 @@ var puns = [
 	"What do you call people who are afraid of Santa Claus?  Claustrophobic.", 
 	"What did the beach say as the tide came in? Long time no sea.",
 	"Why is Peter Pan always flying? He neverlands.",
-	"To the mathematicians who thought of the idea of zero: Thanks for nothing!"
+	"To the mathematicians who thought of the idea of zero: Thanks for nothing!",
 	"In democracy, it's your vote that counts. In feudalism, it's your count that votes."
 ];
 
