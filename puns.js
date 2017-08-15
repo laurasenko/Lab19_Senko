@@ -1,6 +1,5 @@
 var puns = [
 	"Buzz Aldrin was the second man on the moon. Neil before him.",
-	"Atheism is a non prophet religion.",
 	"What do you call the security outside of a Samsung Store?  Guardians of the Galaxy.",
 	"I can't believe I got fired from the calendar factory. All I did was take a day off.",
 	"I'm reading a book about anti-gravity. It's impossible to put down.",
@@ -13,6 +12,7 @@ var puns = [
 	"What did the beach say as the tide came in? Long time no sea.",
 	"Why is Peter Pan always flying? He neverlands.",
 	"To the mathematicians who thought of the idea of zero: Thanks for nothing!"
+	"In democracy, it's your vote that counts. In feudalism, it's your count that votes."
 ];
 
 module.exports.puns = puns;
